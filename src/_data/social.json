@@ -9,11 +9,11 @@
     "url": "https://mastodon.social/@kemmott",
     "icon": "mastodon.svg"
   },
-  {
-    "platform": "threads",
-    "url": "https://www.threads.net/@kemmott",
-    "icon": "threads.svg"
-  },
+  // {
+  //   "platform": "threads",
+  //   "url": "https://www.threads.net/@kemmott",
+  //   "icon": "threads.svg"
+  // },
   {
     "platform": "rss",
     "url": "/feed.xml",
