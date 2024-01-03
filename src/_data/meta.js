@@ -1,6 +1,6 @@
 module.exports = {
   url: process.env.URL || 'http://localhost:8080',
-  siteName: 'kevan.emmott.com',
+  siteName: 'kevan emmott',
   siteDescription:
     'cannonballs and acorns',
   siteType: 'Person', // schema
@@ -33,12 +33,12 @@ module.exports = {
     // edit all presets or leave empty. They are being used in the pages for privacy.md and imprint.md
     firma: '',
     street: '',
-    city: '',
-    state: '',
+    city: 'Arlington',
+    state: 'VA',
     zip: '',
-    mobileDisplay: '',
-    mobileCall: ' ',
-    email: '',
+    mobileDisplay: '+1.703.863.0742',
+    mobileCall: '+17038630742',
+    email: 'kevan@emmott.com',
     cif: ''
   },
   menu: {
