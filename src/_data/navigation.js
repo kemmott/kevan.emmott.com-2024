@@ -4,14 +4,14 @@ module.exports = {
       text: 'About',
       url: '/about/'
     },
-    {
-      text: 'Get started',
-      url: '/get-started/'
-    },
-    {
-      text: 'Built with',
-      url: '/built-with/'
-    },
+    // {
+    //   text: 'Get started',
+    //   url: '/get-started/'
+    // },
+    // {
+    //   text: 'Built with',
+    //   url: '/built-with/'
+    // },
     {
       text: 'Blog',
       url: '/blog/'
@@ -19,12 +19,12 @@ module.exports = {
   ],
   bottom: [
     {
-      text: 'Imprint',
-      url: '/imprint/'
-    },
-    {
-      text: 'Privacy',
-      url: '/privacy/'
+      text: 'Contact',
+      url: '/contact/'
+    // },
+    // {
+    //   text: 'Privacy',
+    //   url: '/privacy/'
     }
   ]
 };

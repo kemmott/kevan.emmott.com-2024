@@ -8,6 +8,6 @@ blog:
   intro: "The 4 latest posts from my life..."
 ---
 
-## Kevan Emmott
+## Hi
 
 This site is a place for my thoughts.
