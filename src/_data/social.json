@@ -10,6 +10,11 @@
     "icon": "mastodon.svg"
   },
   {
+    "platform": "instagram",
+    "url": "https://instagram.com/kemmott",
+    "icon": "instagram.svg"
+  },
+  {
     "platform": "rss",
     "url": "/feed.xml",
     "icon": "rss.svg"
