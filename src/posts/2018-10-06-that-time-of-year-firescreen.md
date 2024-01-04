@@ -27,6 +27,6 @@ author:
   first_name: ''
   last_name: ''
 ---
-<div><img src="{{ site.url }}/assets/images/blog/images/blog/4093d-42002923_368990607212079_5808022867723042955_n.jpg" style="max-width:600px;" />
+<div><img src="{{ site.url }}/assets/images/blog/4093d-42002923_368990607212079_5808022867723042955_n.jpg" style="max-width:600px;" />
 <div>via <a href="https://ift.tt/2y69bGW">Instagram</a></div>
 </div>
