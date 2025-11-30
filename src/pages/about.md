@@ -8,7 +8,7 @@ youtube: true
 
 ## Who am I
 
-I am currently a Senior Director of Technology at [Capital One](https://www.capitalone.com/), leading teams building mobile app and website features for our credit card holders. I’m married to Erin, with two sons, Cooper and Fletcher. We live in Arlington, VA, USA.
+I am currently a Senior Director of Technology at [Capital One](https://www.capitalone.com/), leading teams building mobile app and website features for our credit card holders.
 
 ## Colophon
 
